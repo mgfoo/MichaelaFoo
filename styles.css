@@ -1,11 +1,12 @@
 /*Background Image*/
 .bgimage
 {
-    min-height: 100%;
-    background-image: url('Photos/professionalphotosfu.jpg');
-    background-size: cover;
-    position: center;
+    background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('Photos/professionalphotosfu.jpg');
+    min-height: 100%;
+  
 }
 
 /*text css above image*/
